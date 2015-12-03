@@ -30,4 +30,6 @@ public class BLE_GATT {
             // this will get called after the client initiates a            BluetoothGatt.discoverServices() call
         }
     }
+
+            //BLEGattCallBack
 }
